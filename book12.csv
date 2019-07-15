@@ -1,0 +1,74 @@
+unskilled farmers,6,615,25,F,350,0,1,0,0,0,0
+unskilled farmers,8,820,21,M,466.6666667,1,1,0,0,0,0
+unskilled farmers,5,512.5,32,F,291.6666667,0,1,0,0,0,0
+unskilled farmers,3,307.5,50,F,175,0,1,0,0,0,0
+unskilled farmers,9,922.5,21,M,525,1,1,0,0,0
+unskilled farmers,8,820,19,M,466.6666667,1,1,0,0,0,0
+unskilled farmers,8,820,18,M,466.6666667,1,1,0,0,0,0
+unskilled farmers,7,717.5,26,M,408.3333333,1,1,0,0,0,0
+unskilled farmers,6,615,54,M,350,1,1,0,0,0,0
+unskilled farmers,6,615,30,F,350,0,1,0,0,0,0
+unskilled farmers,4,410,45,M,233.3333333,1,1,0,0,0,0
+unskilled farmers,9,922.5,31,F,525,0,1,0,0,0,0
+semi-skilled (supervisors),8,820,26,M,480,1,0,1,0,0,0
+semi-skilled (supervisors),6,615,29,M,360,1,0,1,0,0,0
+semi-skilled (supervisors),5,512.5,39,M,300,1,0,1,0,0,0
+semi-skilled (supervisors),4,410,36,M,240,1,0,1,0,0,0
+semi-skilled (supervisors),7,717.5,21,F,420,0,0,1,0,0,0
+semi-skilled (supervisors),9,922.5,13,M,540,1,0,1,0,0,0
+semi-skilled (supervisors),8,820,21,M,480,1,0,1,0,0,0
+semi-skilled (supervisors),7,717.5,28,M,420,1,0,1,0,0,0
+semi-skilled (supervisors),5,512.5,35,M,300,1,0,1,0,0,0
+semi-skilled (supervisors),6,615,32,M,360,1,0,1,0,0,0
+semi-skilled (supervisors),3,307.5,40,M,180,1,0,1,0,0,0
+semi-skilled (supervisors),5,512.5,38,M,300,1,0,1,0,0,0
+labourers,6,615,32,F,373.5,0,0,0,1,0,0
+loading unloading,9,922.5,18,M,560.25,1,0,0,1,0,0
+labourers,7,717.5,22,F,435.75,0,0,0,1,0,0
+labourers,4,410,36,F,249,0,0,0,1,0,0
+loading unloading ,2,205,48,M,124.5,1,0,0,1,0,0
+labourers,3,307.5,44,M,186.75,1,0,0,1,0,0
+loading unloading,5,512.5,36,F,311.25,0,0,0,1,0,0
+loading unloading,8,820,23,M,498,1,0,0,1,0,0
+labourers,9,922.5,18,M,560.25,1,0,0,1,0,0
+loading unloading,6,615,19,M,373.5,1,0,0,1,0,0
+labourers,3,307.5,45,M,186.75,1,0,0,1,0,0
+loading unloading,5,512.5,48,M,311.25,1,0,0,1,0,0
+labourers,7,717.5,26,F,435.75,0,0,0,1,0,0
+labourers,5,512.5,35,F,311.25,0,0,0,1,0,0
+labourers,8,820,32,M,498,1,0,0,1,0,0
+labourers,4,410,28,M,249,1,0,0,1,0,0
+labourers,3,307.5,29,M,186.75,1,0,0,1,0,0
+factory workers,9,922.5,25,F,699,0,0,0,0,1,0
+factory workers ,6,615,26,F,466,0,0,0,0,1,0
+unloading loading,4,410,47,M,310.6666667,1,0,0,0,1,0
+factory workers,5,512.5,43,F,388.3333333,0,0,0,0,1,0
+factory workers,8,820,22,M,621.3333333,1,0,0,0,1,0
+loading unloading,9,922.5,18,M,699,1,0,0,0,1,0
+factory workers ,9,922.5,19,M,699,1,0,0,0,1,0
+loading unloading,8,820,20,M,621.3333333,1,0,0,0,1,0
+factory workers,7,717.5,26,M,543.6666667,1,0,0,0,1,0
+factory workers,10,1025,22,F,776.6666667,0,0,0,0,1,0
+factory workers,9,922.5,29,M,699,1,0,0,0,1,0
+factory workers,8,820,30,F,621.3333333,0,0,0,0,1,0
+loading unloading,3,307.5,42,M,233,1,0,0,0,1,0
+factory workers,1,102.5,50,F,77.66666667,0,0,0,0,1,0
+unloading loading,7,717.5,26,M,543.6666667,1,0,0,0,1,0
+sweeping worker,7,717.5,24,M,443.3333333,1,0,0,0,0,1
+sweeping worker,6,615,26,M,380,1,0,0,0,0,1
+sweeping worker,9,922.5,36,M,570,1,0,0,0,0,1
+sweeping worker,6,615,25,F,380,0,0,0,0,0,1
+cleaning worker,3,307.5,50,F,190,1,0,0,0,0,1
+cleaning worker,4,410,48,M,253.3333333,1,0,0,0,0,1
+sweeping worker,6,615,35,F,380,0,0,0,0,0,1
+sweeping worker,3,307.5,31,M,190,1,0,0,0,0,1
+cleaning worker,9,922.5,20,M,570,1,0,0,0,0,1
+cleaning worker,5,512.5,20,F,316.6666667,0,0,0,0,0,1
+cleaning worker,3,307.5,21,M,190,1,0,0,0,0,1
+sweeping worker,6,615,25,M,380,1,0,0,0,0,1
+sweeping worker,9,922.5,24,M,570,1,0,0,0,0,1
+cleaning worker,5,512.5,29,F,316.6666667,0,0,0,0,0,1
+cleaning worker,7,717.5,27,M,443.3333333,1,0,0,0,0,1
+sweeping worker,6,615,25,M,380,1,0,0,0,0,1
+sweeping worker,3,307.5,18,F,190,0,0,0,0,0,1
+sweeping worker,5,512.5,19,M,316.6666667,1,0,0,0,0,1
